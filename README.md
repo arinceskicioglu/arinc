@@ -13,7 +13,6 @@ By exploring the patterns of teams that successfully navigate the tournament ver
 Generally, I am using data from 
 - https://fbref.com/en/comps/8/history/Champions-League-Seasons
 - https://www.transfermarkt.com/uefa-champions-league/teilnehmer/pokalwettbewerb/CL
-- 
 
 
 - Countries of the teams and teams qualified for round of 16
@@ -25,8 +24,8 @@ Generally, I am using data from
 
 
 # Questions
-How many teams do each country have in champions league and how many of them were able to? which country is the most successful?
-Was the winner team always the best in group stage?
-What statistics make a team best in the group stage or in two leg system?
-How much budget do a good club spend per year and did it actually work?
-What makes the difference between the champion and a just good team?
+- How many teams do each country have in champions league and how many of them were able to? which country is the most successful?
+- Was the winner team always the best in group stage?
+- What statistics make a team best in the group stage or in two leg system?
+- How much budget do a good club spend per year and did it actually work?
+- What makes the difference between the champion and a just good team?
