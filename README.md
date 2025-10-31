@@ -13,10 +13,15 @@ By exploring the patterns of teams that successfully navigate the tournament ver
 Generally, I am using data from 
 - https://fbref.com/en/comps/8/history/Champions-League-Seasons
 - https://www.transfermarkt.com/uefa-champions-league/teilnehmer/pokalwettbewerb/CL
+- 
 
 
--Countries of the teams and teams qualified for round of 16
--The amount of wins and losses of the winner team in the finals
+- Countries of the teams and teams qualified for round of 16
+- The amount of wins and losses of the winner team in the group stage
+- total goal each team scored and total goal scored against them
+- the points each team collected in group stage
+- expected goals and expected goals allowed by each team, also expected goal difference per 90 mins for each team
+- transfer budgets of each team
 
 
 # Questions
