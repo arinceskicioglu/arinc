@@ -25,7 +25,7 @@ Generally, I am using data from
 - transfer budgets of each team
 
 
-#Problems
+# Problems
 A potential bias arises when a strong team (Team A) is eliminated early, for instance in the Round of 16, simply because they faced the tournament winner. Although the champion is theoretically the strongest opponent, our current scoring system penalizes Team A for this early exit. Consequently, Team A is underrated; their true performance quality may be much higher than their final ranking suggests.
 
 
