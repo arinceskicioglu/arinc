@@ -9,7 +9,10 @@ My motivation for this topic stems from a desire to challenge common narratives.
 By exploring the patterns of teams that successfully navigate the tournament versus those that fail, this project will attempt to identify the tangible, data-backed markers of a championship-caliber team.
 
 My null hypothesis is that:
-A team's success in champions league can be predicted according to what they have done by the end of group stage.
+Group stage performance and is not related with further success in champions league.
+
+
+
 
 # Data to be used
 Generally, I am using data from 
